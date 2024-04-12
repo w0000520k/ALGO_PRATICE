@@ -1,3 +1,4 @@
-A = input()
-if len(A) <= 100 and A.isalpha():
-    print(len(A))
+S = input()
+
+if S.isalpha() == True :
+    print(len(S))
